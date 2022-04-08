@@ -1,2 +1,2 @@
 # MTRConfig
-MTR Config - Temas Rooms basic config
+MTR Config - Microsoft Teams Rooms basic config
